@@ -18,7 +18,7 @@ I’m a **Frontend Developer & UI/UX Designer** who loves clean UI, pastel aesth
 - 💻 React • React Native • Tailwind • Firebase  
 - 💡 Creative + detail-oriented problem solver  
 - ✨ I design faster than I pick a Netflix show  
-- 📩 Reach Me: **rasikamhaske2670@gmail.com**
+- 📩 Reach Me: **rasikamhaske26@gmail.com**
 
 ---
 
