@@ -1,16 +1,13 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00b3aa&text=Rasika%20Mhaske&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer</b> •
-  <b>UI/UX Enthusiast</b> •
-  <b>Software Engineer</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00b3aa&text=Rasika%20Mhaske&fontAlign=50&fontAlignY=38&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="center">
+<b>Full Stack Developer</b> •
+<b>UI/UX Enthusiast</b> •
+<b>Software Engineer</b>
+
 Building clean interfaces, scalable applications, and thoughtful digital experiences.
-</p>
+</div>
 
 ## Tech Stack
 
